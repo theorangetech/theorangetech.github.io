@@ -6175,7 +6175,7 @@ button.bg-dark:focus {
 }
 
 .bg-white {
-  background-color: #fff !important;
+  background-color: #000 !important;
 }
 
 .bg-transparent {
@@ -6255,7 +6255,7 @@ button.bg-dark:focus {
 }
 
 .border-white {
-  border-color: #fff !important;
+  border-color: #000 !important;
 }
 
 .rounded-sm {
